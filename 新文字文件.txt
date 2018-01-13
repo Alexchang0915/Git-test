@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 aaaa  >>hello!
 bbbb
+=======
+aaaa
+bbbb
+
+test1
+>>>>>>> test1
